@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ca6850f0.css",
+    "main.js": "/portfolio/static/js/main.dbdd3dca.js",
+    "static/media/Profile.png": "/portfolio/static/media/Profile.84f70e87b6cf863aef7a.png",
+    "static/media/Expenses.png": "/portfolio/static/media/Expenses.51e544059464a565ed68.png",
+    "static/media/Doctor.png": "/portfolio/static/media/Doctor.2bb2ab7bda785e23adfc.png",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Blog.png": "/portfolio/static/media/Blog.c188195526a06b9f8c3a.png",
+    "static/media/CVS.png": "/portfolio/static/media/CVS.be9d80ddb0b928f9fb76.png",
+    "static/media/Covid.jpeg": "/portfolio/static/media/Covid.007a3a59ceda1effaa45.jpeg",
+    "static/media/Version.png": "/portfolio/static/media/Version.430a12b4a0343fe4ee95.png",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Task.png": "/portfolio/static/media/Task.fa3ebe2a18297b30411b.png",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio/index.html",
+    "main.ca6850f0.css.map": "/portfolio/static/css/main.ca6850f0.css.map",
+    "main.dbdd3dca.js.map": "/portfolio/static/js/main.dbdd3dca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca6850f0.css",
+    "static/js/main.dbdd3dca.js"
+  ]
+}
